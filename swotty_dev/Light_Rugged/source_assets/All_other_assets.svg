@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="427.17069810219033mm"
+   height="296.17638738014995mm"
+   viewBox="0 0 427.17069810219033 296.17638738014995"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="All_other_assets.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/LB.png"
+   inkscape:export-xdpi="86.488403"
+   inkscape:export-ydpi="86.488403"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs42">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12991">
+      <stop
+         style="stop-color:#6fe2f8;stop-opacity:1;"
+         offset="0"
+         id="stop12987" />
+      <stop
+         style="stop-color:#6fe2f8;stop-opacity:0;"
+         offset="1"
+         id="stop12989" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient92912"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop92910" />
+    </linearGradient>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker83615"
+       inkscape:stockid="InfiniteLineStart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         transform="translate(-13,0)"
+         style="fill:context-stroke"
+         id="g83613">
+        <circle
+           cx="3"
+           cy="0"
+           r="0.8"
+           id="circle83607" />
+        <circle
+           cx="6.5"
+           cy="0"
+           r="0.8"
+           id="circle83609" />
+        <circle
+           cx="10"
+           cy="0"
+           r="0.8"
+           id="circle83611" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="InfiniteLineEnd"
+       inkscape:stockid="InfiniteLineEnd"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         style="fill:context-stroke"
+         id="g83262">
+        <circle
+           cx="3"
+           cy="0"
+           r="0.8"
+           id="circle83256" />
+        <circle
+           cx="6.5"
+           cy="0"
+           r="0.8"
+           id="circle83258" />
+        <circle
+           cx="10"
+           cy="0"
+           r="0.8"
+           id="circle83260" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="InfiniteLineStart"
+       inkscape:stockid="InfiniteLineStart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         transform="translate(-13,0)"
+         style="fill:context-stroke"
+         id="g83271">
+        <circle
+           cx="3"
+           cy="0"
+           r="0.8"
+           id="circle83265" />
+        <circle
+           cx="6.5"
+           cy="0"
+           r="0.8"
+           id="circle83267" />
+        <circle
+           cx="10"
+           cy="0"
+           r="0.8"
+           id="circle83269" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker83559"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="EmptyDiamondL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;fill:context-fill;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path83557" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyDiamondL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="EmptyDiamondL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;fill:context-fill;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path83127" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyDiamondLend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="EmptyDiamondLend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(-7,0)"
+         style="fill-rule:evenodd;fill:context-fill;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path83145" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="EmptyTriangleOutL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(-6,0)"
+         style="fill-rule:evenodd;fill:context-fill;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path83181" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker83393"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Tail"
+       inkscape:isstock="true">
+      <g
+         transform="scale(-1.2)"
+         id="g83391">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           id="path83379" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           id="path83381" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           id="path83383" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           id="path83385" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           id="path83387" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           id="path83389" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker83353"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Tail"
+       inkscape:isstock="true">
+      <g
+         transform="scale(-1.2)"
+         id="g83351">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           id="path83339" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           id="path83341" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           id="path83343" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           id="path83345" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           id="path83347" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           id="path83349" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Tail"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Tail"
+       inkscape:isstock="true">
+      <g
+         transform="scale(-1.2)"
+         id="g83069">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           id="path83057" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           id="path83059" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           id="path83061" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           id="path83063" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           id="path83065" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           id="path83067" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path83027" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker83291"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path83289" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path83021" />
+    </marker>
+    <linearGradient
+       id="linearGradient10252"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#f2ff00;stop-opacity:1;"
+         offset="0"
+         id="stop10250" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12991"
+       id="radialGradient12993"
+       cx="-34.531757"
+       cy="40.123104"
+       fx="-34.531757"
+       fy="40.123104"
+       r="5.175"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview40"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.41644951"
+     inkscape:cx="-1508.0475"
+     inkscape:cy="687.8561"
+     inkscape:window-width="2560"
+     inkscape:window-height="1413"
+     inkscape:window-x="1080"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6"
+     inkscape:rotation="-1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid63272" />
+  </sodipodi:namedview>
+  <g
+     id="Sketch"
+     transform="matrix(1,0,0,-1,213.58535,143.18795)">
+    <circle
+       cx="-114"
+       cy="60"
+       r="52.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#000000;stroke-width:7.4;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.547441"
+       id="circle2"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="114"
+       cy="60"
+       r="52.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#000000;stroke-width:7.4;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.553887"
+       id="circle4"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="-47.5"
+       cy="-2"
+       r="33.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#fdffff;stroke-width:3.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="49"
+       cy="-23.5"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#ffffff;stroke-width:3.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.997118"
+       id="circle8"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="71.5"
+       cy="0"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#ffffff;stroke-width:3.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle10"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="49"
+       cy="23.5"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#ffffff;stroke-width:3.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996969"
+       id="circle12"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="24.5"
+       cy="0"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#ffffff;stroke-width:3.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle14"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="0"
+       cy="66"
+       r="15"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#000000;stroke-width:4.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle16"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0008"
+       d="m 29,68 c -3.865996,0 -6.999997,-3.134007 -6.999997,-7 0,-3.865993 3.134001,-7 6.999997,-7 h 11 c 3.865996,0 6.999997,3.134007 6.999997,7 0,3.865993 -3.134001,7 -6.999997,7 H 29"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.994025"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       id="Sketch_w0009"
+       d="m -29,54 a 7,7 0 0 1 0,14 h -11 a 7,7 0 0 1 0,-14 h 11"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988053"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0010"
+       d="m -187.1208,62.309888 -19.34579,-83.795826 -2.93081,-55.923254 12.86435,-42.077408 14.78412,-17.61902 38.25219,-11.69487 23.01262,9.76828 32.964225,70.692004 19.938771,9.297602 H 67.581124 l 19.938771,-9.297602 32.964225,-70.692004 23.01262,-9.76828 38.25219,11.69487 14.78412,17.61902 12.86435,42.077408 -2.93081,55.923254 L 187.1208,62.309888 161.72327,122.1427 120,139 h -240 l -41.72327,-16.8573 z"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#8bff69;stroke-width:13.05;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="-47.5"
+       cy="-2"
+       r="25.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#000000;stroke-width:0.55;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55"
+       id="circle21"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0012"
+       d="m -151.12311,97.123106 23.68808,-23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:1.95, 3.9;stroke-dashoffset:4.68"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0013"
+       d="m -151.12311,22.876894 23.68808,23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:1.95, 3.9;stroke-dashoffset:4.68"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0014"
+       d="M 76.876894,97.123106 100.56497,73.435029"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:1.95, 3.9;stroke-dashoffset:4.68"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0015"
+       d="M 76.876894,22.876894 100.56497,46.564971"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:1.95, 3.9;stroke-dashoffset:4.68"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="-114"
+       cy="60"
+       r="19"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.35,4.2;stroke-dashoffset:1.57500008;stroke-opacity:1"
+       id="circle27"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="114"
+       cy="60"
+       r="19"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.35, 4.2;stroke-dashoffset:1.575;stroke-opacity:1"
+       id="circle29"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0018"
+       d="m -100.56497,73.435029 23.688076,23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:1.95, 3.9;stroke-dashoffset:4.68;stroke-opacity:1"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0019"
+       d="M -100.56497,46.564971 -76.876894,22.876894"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:1.95, 3.9;stroke-dashoffset:4.68"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0020"
+       d="M 127.43503,46.564971 151.12311,22.876894"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:1.95, 3.9;stroke-dashoffset:4.68"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="Sketch_w0021"
+       d="m 127.43503,73.435029 23.68808,23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:1.95, 3.9;stroke-dashoffset:4.68"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <title
+       id="title35">b'Sketch'</title>
+    <path
+       id="path7267"
+       d="m -187.1208,62.309888 -19.34579,-83.795826 -2.93081,-55.923254 12.86435,-42.077408 14.78412,-17.61902 38.25219,-11.69487 23.01262,9.76828 32.964225,70.692004 19.938771,9.297602 H 67.581124 l 19.938771,-9.297602 32.964225,-70.692004 23.01262,-9.76828 38.25219,11.69487 14.78412,17.61902 12.86435,42.077408 -2.93081,55.923254 L 187.1208,62.309888 161.72327,122.1427 120,139 h -240 l -41.72327,-16.8573 z"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:11.25;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="114"
+       cy="60"
+       r="52.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#8bff69;stroke-width:5.6;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle30312"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="-114"
+       cy="60"
+       r="52.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#8bff69;stroke-width:5.6;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle35805"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="path36244"
+       d="m -100.56497,46.564971 c 7.896025,-7.896026 16.904891,-17.000007 23.688076,-23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.75, 1.5;stroke-dashoffset:1.5;stroke-opacity:1"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path37975"
+       d="m -151.12311,22.876894 23.68808,23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.75, 1.5;stroke-dashoffset:1.5;stroke-opacity:1"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="path38530"
+       d="m -151.12311,97.123106 23.68808,-23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.75, 1.5;stroke-dashoffset:1.5;stroke-opacity:0.991466"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="path39679"
+       d="m -100.56497,73.435029 23.688076,23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.75, 1.5;stroke-dashoffset:1.5;stroke-opacity:1"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="path40002"
+       d="M 127.43503,46.564971 151.12311,22.876894"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.75, 1.5;stroke-dashoffset:1.5;stroke-opacity:1"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="path40517"
+       d="M 76.876894,22.876894 100.56497,46.564971"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.75, 1.5;stroke-dashoffset:1.5;stroke-opacity:1"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="path40861"
+       d="M 76.876894,97.123106 100.56497,73.435029"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.75, 1.5;stroke-dashoffset:1.5;stroke-opacity:1"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="path41281"
+       d="m 127.43503,73.435029 23.68808,23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.75;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.75, 1.5;stroke-dashoffset:1.5;stroke-opacity:1"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="-47.5"
+       cy="-2"
+       r="33.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#d4ff90;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle61045"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="-47.5"
+       cy="-2"
+       r="33.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.545417"
+       id="circle61408"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="24.5"
+       cy="0"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#d4ff90;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle63699"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="24.5"
+       cy="0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle78825"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       r="12" />
+    <circle
+       cx="49"
+       cy="23.5"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#d4ff90;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle79834"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="49"
+       cy="23.5"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#000003;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle79893"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="71.5"
+       cy="0"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#d4ff90;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle80142"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="71.5"
+       cy="0"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle80448"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="49"
+       cy="-23.5"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#d4ff90;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle80868"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="49"
+       cy="-23.5"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle81725"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <path
+       id="path89239"
+       d="m 29,68 c -3.865996,0 -6.999997,-3.134007 -6.999997,-7 0,-3.865993 3.134001,-7 6.999997,-7 h 11 c 3.865996,0 6.999997,3.134007 6.999997,7"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.550496"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       sodipodi:nodetypes="csssc" />
+    <path
+       id="path90077"
+       d="m -29,54 c 3.865996,0 6.999997,3.134007 6.999997,7 0,3.865993 -3.134001,7 -6.999997,7 h -11 c -3.865996,0 -6.999997,-3.134007 -6.999997,-7"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.548153"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       sodipodi:nodetypes="csssc" />
+    <circle
+       cx="0.24312975"
+       cy="69.249382"
+       r="15"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke:#ffffff;stroke-width:2.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle92036"
+       inkscape:export-filename="/home/mu/Documents/loose_software/circle2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline">
+    <path
+       id="Sketch_w0020-2"
+       d="m -77.137839,-2.0220231 h 29.660012 29.660015 M -47.477827,-31.634267 V -2.0220231 27.59022"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.12151;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4"
+     style="display:inline">
+    <g
+       id="Sketch-7"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)">
+      <circle
+         cx="-47.5"
+         cy="-2"
+         r="33.5"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle15330" />
+      <title
+         id="title15359">b'Sketch'</title>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <g
+       id="Sketch-2"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)">
+      <title
+         id="title1402">b'Sketch'</title>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:none">
+    <path
+       id="Sketch_w0009-8"
+       d="m -161.72327,122.1427 -25.39753,-59.832812 -19.34579,-83.795826 -2.93081,-55.923254 12.86435,-42.077408 14.78412,-17.61902 38.25219,-11.69487 23.01262,9.76828 32.964225,70.692004 19.938771,9.297602 H 67.581124 l 19.938771,-9.297602 32.964225,-70.692004 23.01262,-9.76828 38.25219,11.69487 14.78412,17.61902 12.86435,42.077408 -2.93081,55.923254 L 187.1208,62.309888 161.72327,122.1427 120,139 h -240 l -41.72327,-16.8573"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <circle
+       cx="71.5"
+       cy="0"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9377"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <circle
+       cx="49"
+       cy="-23.5"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9375"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <circle
+       cx="24.5"
+       cy="0"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9381"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <circle
+       cx="114"
+       cy="60"
+       r="52.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9373"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0013-2"
+       d="M 76.876894,22.876894 100.56497,46.564971"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0018-0"
+       d="M 127.43503,46.564971 151.12311,22.876894"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0019-2"
+       d="m 127.43503,73.435029 23.68808,23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0012-9"
+       d="M 76.876894,97.123106 100.56497,73.435029"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <circle
+       cx="114"
+       cy="60"
+       r="19"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9394"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0017"
+       d="M -100.56497,46.564971 -76.876894,22.876894"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <circle
+       cx="-114"
+       cy="60"
+       r="52.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9371"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <circle
+       cx="-114"
+       cy="60"
+       r="19"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9392"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0011"
+       d="m -151.12311,22.876894 23.68808,23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0010-7"
+       d="m -151.12311,97.123106 23.68808,-23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0016"
+       d="m -100.56497,73.435029 23.688076,23.688077"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <circle
+       cx="49"
+       cy="23.5"
+       r="12"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9379"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0007"
+       d="m 29,68 a 7,7 0 0 1 0,-14 h 11 a 7,7 0 0 1 0,14 H 29"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+    <path
+       id="Sketch_w0008-1"
+       d="m 184.58535,89.18795 a 7,7 0 0 0 0,-14 h -11 a 7,7 0 0 0 0,14 h 11"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="0"
+       cy="66"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9383"
+       r="15"
+       transform="matrix(1,0,0,-1,213.58535,143.18795)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 6"
+     style="display:inline">
+    <g
+       id="Sketch-3"
+       transform="matrix(1,0,0,-1,-452.12519,94.79015)"
+       style="display:inline">
+      <circle
+         cx="-114"
+         cy="60"
+         r="52.5"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1336" />
+      <circle
+         cx="114"
+         cy="60"
+         r="52.5"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1338" />
+      <circle
+         cx="-47.5"
+         cy="-2"
+         r="33.5"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1340" />
+      <circle
+         cx="49"
+         cy="-23.5"
+         r="12"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1342" />
+      <circle
+         cx="71.5"
+         cy="0"
+         r="12"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1344" />
+      <circle
+         cx="49"
+         cy="23.5"
+         r="12"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1346" />
+      <circle
+         cx="24.5"
+         cy="0"
+         r="12"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1348" />
+      <circle
+         cx="0"
+         cy="66"
+         r="15"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1350" />
+      <path
+         id="Sketch_w0008-6"
+         d="m 29,68 a 7,7 0 0 1 0,-14 h 11 a 7,7 0 0 1 0,14 H 29"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="Sketch_w0009-7"
+         d="m -29,54 a 7,7 0 0 1 0,14 h -11 a 7,7 0 0 1 0,-14 h 11"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="Sketch_w0011-3"
+         d="m -87.519895,-68.340206 h -9 l -12.678545,-27.189233 -11.74139,-7.624951 -4.00962,-10.77835 -0.59403,-9.98234 1.88039,-7.77587 3.17897,-7.34126 z"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:#195f5c;fill-opacity:0.54902;fill-rule:evenodd;stroke:#15a0ff;stroke-width:5.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/Left_Paddle.png"
+         inkscape:export-xdpi="86.488403"
+         inkscape:export-ydpi="86.488403" />
+      <path
+         id="Sketch_w0013-6"
+         d="m 120.93983,-103.15439 3.89193,-10.82141 0.48521,-9.98822 -1.29045,-7.89523 -3.5424,-7.17296 -32.964225,70.692004 h 9 l 12.732865,-26.995921 z"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:#195f5c;fill-opacity:0.54902;fill-rule:evenodd;stroke:#15a0ff;stroke-width:5.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/Right_Paddle.png"
+         inkscape:export-xdpi="86.488403"
+         inkscape:export-ydpi="86.488403" />
+      <path
+         id="Sketch_w0015-9"
+         d="m 120,139 6.93429,-14.87063 19.47086,-7.86674 15.31812,5.88007 z"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:#195f5c;fill-opacity:0.54902;fill-rule:evenodd;stroke:#15a0ff;stroke-width:5.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/RB.png"
+         inkscape:export-xdpi="86.488403"
+         inkscape:export-ydpi="86.488403" />
+      <path
+         id="Sketch_w0016-1"
+         d="m -161.72327,122.1427 15.31812,-5.88007 19.47086,7.86674 C -124.62286,129.08625 -120,139 -120,139 Z"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:#195f5c;fill-opacity:0.54902;fill-rule:evenodd;stroke:#15a0ff;stroke-width:5.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/LB.png"
+         inkscape:export-xdpi="86.488403"
+         inkscape:export-ydpi="86.488403" />
+      <circle
+         cx="-47.5"
+         cy="-2"
+         r="25.5"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1361" />
+      <path
+         id="Sketch_w0018-2"
+         d="m -151.12311,97.123106 23.68808,-23.688077"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="Sketch_w0019-7"
+         d="m -151.12311,22.876894 23.68808,23.688077"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="Sketch_w0020-0"
+         d="M 76.876894,97.123106 100.56497,73.435029"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="Sketch_w0021-9"
+         d="M 76.876894,22.876894 100.56497,46.564971"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         cx="-114"
+         cy="60"
+         r="19"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1367" />
+      <circle
+         cx="114"
+         cy="60"
+         r="19"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1369" />
+      <path
+         id="Sketch_w0024"
+         d="m -100.56497,73.435029 23.688076,23.688077"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="Sketch_w0025"
+         d="M -100.56497,46.564971 -76.876894,22.876894"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="Sketch_w0026"
+         d="M 127.43503,46.564971 151.12311,22.876894"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="Sketch_w0027"
+         d="m 127.43503,73.435029 23.68808,23.688077"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <title
+         id="title1375">b'Sketch'</title>
+    </g>
+    <circle
+       cx="386.57812"
+       cy="480.90152"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="display:inline;opacity:0.63;fill:#195f5c;fill-opacity:1;stroke:#15a0ff;stroke-width:1.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85"
+       id="circle9758"
+       r="10"
+       inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/Pad_touch.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       transform="matrix(1,0,0,-1,-422.84491,482.49732)" />
+    <circle
+       cx="-34.531757"
+       cy="40.123104"
+       r="5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="display:inline;fill:url(#radialGradient12993);fill-opacity:1;stroke:#ffffff;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.3"
+       id="circle12423"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/Pad_Heat.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 5"
+     style="display:inline">
+    <circle
+       cx="-27.870623"
+       cy="-162.78075"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:#195f5c;fill-opacity:0.55;stroke:#15a0ff;stroke-width:4.85;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle17127"
+       inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/Btn_Press.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       r="12"
+       transform="scale(1,-1)" />
+    <circle
+       cx="-89.100029"
+       cy="-188.17628"
+       r="29"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="display:inline;fill:#195f5c;fill-opacity:0.55;stroke:#15a0ff;stroke-width:8.95;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle15345"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/Stick_Press.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403" />
+    <circle
+       cx="-129.52071"
+       cy="-14.635834"
+       r="52.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:#195f5c;fill-opacity:0.54902;stroke:#15a0ff;stroke-width:5.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle18388"
+       inkscape:export-filename="/home/mu/Documents/loose_software/pad-press-v2.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       transform="scale(1,-1)" />
+    <path
+       id="path18686"
+       d="m -39.089656,51.926142 c -3.865996,0 -6.999997,3.134007 -6.999997,7 0,3.865993 3.134001,7 6.999997,7 h 11 c 3.865996,0 6.999997,-3.134007 6.999997,-7 0,-3.865993 -3.134001,-7 -6.999997,-7 h -11"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:#195f5c;fill-opacity:0.54902;fill-rule:evenodd;stroke:#15a0ff;stroke-width:4.85;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157"
+       inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/Btn_Start_Select_Press.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       sodipodi:nodetypes="csssssc" />
+    <circle
+       cx="-37.943607"
+       cy="-112.00703"
+       r="15"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:#195f5c;fill-opacity:0.55;stroke:#15a0ff;stroke-width:4.85;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle19378"
+       inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/Btn_Main_Press.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403"
+       transform="scale(1,-1)" />
+    <g
+       id="Sketch-6"
+       transform="matrix(1,0,0,-1,193.77509,340.08907)"
+       style="display:inline"
+       inkscape:export-filename="/home/mu/Documents/loose_software/final_SC_theme/Stick.png"
+       inkscape:export-xdpi="86.488403"
+       inkscape:export-ydpi="86.488403">
+      <path
+         id="Sketch_w0020-3"
+         d="m -310.08857,53.654146 33.5,-33.5 33.5,33.5 -33.5,33.5 -33.5,-33.5"
+         stroke="#000000"
+         stroke-width="0.35 px"
+         style="fill:#8bff69;fill-opacity:1;fill-rule:evenodd;stroke:#737373;stroke-width:3.65;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/mu/Documents/loose_software/Stick_face.png"
+         inkscape:export-xdpi="86.488403"
+         inkscape:export-ydpi="86.488403" />
+      <title
+         id="title9401">b'Sketch'</title>
+    </g>
+    <g
+       id="Sketch-36"
+       transform="matrix(1,0,0,-1,-976.02259,-304.47451)">
+      <title
+         id="title5957">b'Sketch'</title>
+      <g
+         id="Sketch-61"
+         transform="translate(27.739095,-402.22891)">
+        <circle
+           cx="-114"
+           cy="60"
+           r="52.5"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12384" />
+        <circle
+           cx="114"
+           cy="60"
+           r="52.5"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12386" />
+        <circle
+           cx="-47.5"
+           cy="-2"
+           r="33.5"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12388" />
+        <circle
+           cx="49"
+           cy="-23.5"
+           r="12"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12390" />
+        <circle
+           cx="71.5"
+           cy="0"
+           r="12"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12392" />
+        <circle
+           cx="49"
+           cy="23.5"
+           r="12"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12394" />
+        <circle
+           cx="24.5"
+           cy="0"
+           r="12"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12396" />
+        <circle
+           cx="0"
+           cy="66"
+           r="15"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12398" />
+        <path
+           id="Sketch_w0008-5"
+           d="m 29,68 a 7,7 0 0 1 0,-14 h 11 a 7,7 0 0 1 0,14 H 29"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0009-5"
+           d="m -29,54 a 7,7 0 0 1 0,14 h -11 a 7,7 0 0 1 0,-14 h 11"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0010-4"
+           d="m -187.1208,62.309888 -19.34579,-83.795826 -2.93081,-55.923254 12.86435,-42.077408 14.78412,-17.61902 38.25219,-11.69487"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0011-7"
+           d="m -120.48412,-139.03221 32.964225,70.692004 h -9 l -12.678545,-27.189233 -11.74139,-7.624951 -4.00962,-10.77835 -0.59403,-9.98234 1.88039,-7.77587 3.17897,-7.34126"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0012-6"
+           d="M -67.581124,-59.042604 H 67.581124"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0013-5"
+           d="m 109.19844,-95.529439 11.74139,-7.624951 3.89193,-10.82141 0.48521,-9.98822 -1.29045,-7.89523 -3.5424,-7.17296 -32.964225,70.692004 h 9 l 12.678545,-27.189233"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0014-6"
+           d="m 143.49674,-148.80049 38.25219,11.69487 14.78412,17.61902 12.86435,42.077408 -2.93081,55.923254 -19.34579,83.795826"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0015-93"
+           d="M 161.72327,122.1427 120,139 l 6.93429,-14.87063 19.47086,-7.86674 15.31812,5.88007"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0016-7"
+           d="m -120,139 -41.72327,-16.8573 15.31812,-5.88007 19.47086,7.86674 L -120,139"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           cx="-47.5"
+           cy="-2"
+           r="25.5"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12409" />
+        <path
+           id="Sketch_w0018-4"
+           d="m -151.12311,97.123106 23.68808,-23.688077"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0019-5"
+           d="m -151.12311,22.876894 23.68808,23.688077"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0020-25"
+           d="M 76.876894,97.123106 100.56497,73.435029"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0021-4"
+           d="M 76.876894,22.876894 100.56497,46.564971"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           cx="-114"
+           cy="60"
+           r="19"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12415" />
+        <circle
+           cx="114"
+           cy="60"
+           r="19"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12417" />
+        <path
+           id="Sketch_w0024-7"
+           d="m -100.56497,73.435029 23.688076,23.688077"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0025-4"
+           d="M -100.56497,46.564971 -76.876894,22.876894"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0026-4"
+           d="M 127.43503,46.564971 151.12311,22.876894"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Sketch_w0027-3"
+           d="m 127.43503,73.435029 23.68808,23.688077"
+           stroke="#000000"
+           stroke-width="0.35 px"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <title
+           id="title12425">b'Sketch'</title>
+      </g>
+    </g>
+  </g>
+</svg>

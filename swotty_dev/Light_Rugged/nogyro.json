@@ -1,0 +1,399 @@
+{
+  "name": "No Gyro",
+  "width": 1480,
+  "height": 1204,
+  "version": 1,
+  "children": [
+    {
+      "type": "image",
+      "image": "base.png",
+      "x": 740.0,
+      "y": 610.0,
+      "width": 1480.0,
+      "height": 1204.0,
+      "center": true,
+      "children": [
+        {
+          "x": 98.0,
+          "y": 68.0,
+          "children": [
+            {
+              "type": "showhide",
+              "input": "quad_right:s",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Btn_Press.png",
+                  "x": 68.0,
+                  "y": 84.0,
+                  "width": 98.0,
+                  "height": 98.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "quad_right:e",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Btn_Press.png",
+                  "x": 146.0,
+                  "y": 0.0,
+                  "width": 98.0,
+                  "height": 98.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "quad_right:w",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Btn_Press.png",
+                  "x": -14.0,
+                  "y": 0.0,
+                  "width": 98.0,
+                  "height": 98.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "quad_right:n",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Btn_Press.png",
+                  "x": 70.0,
+                  "y": -80.0,
+                  "width": 98.0,
+                  "height": 98.0,
+                  "center": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "showhide",
+          "input": "stick_left:click",
+          "children": [
+            {
+              "type": "image",
+              "image": "Stick_Press.png",
+              "x": -163.0,
+              "y": 77.0,
+              "width": 228.0,
+              "height": 228.0,
+              "center": true
+            }
+          ]
+        },
+        {
+          "type": "slider",
+          "x": -163.0,
+          "y": 77.0,
+          "inputX": "stick_left:x * 16",
+          "inputY": "stick_left:y * 16",
+          "children": [
+            {
+              "type": "image",
+              "image": "Stick.png",
+              "x": 0.0,
+              "y": 0.0,
+              "width": 246.0,
+              "height": 246.0,
+              "center": true
+            }
+          ]
+        },
+        {
+          "x": 0.0,
+          "y": -162.0,
+          "children": [
+            {
+              "type": "showhide",
+              "input": "home",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Btn_Main_Press.png",
+                  "x": 0.0,
+                  "y": 0.0,
+                  "width": 119.0,
+                  "height": 119.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "menu:r",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Btn_Start_Select_Press.png",
+                  "x": 118.0,
+                  "y": 24.0,
+                  "width": 102.0,
+                  "height": 64.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "menu:l",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Btn_Start_Select_Press.png",
+                  "x": -118.0,
+                  "y": 24.0,
+                  "width": 102.0,
+                  "height": 64.0,
+                  "center": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "children": [
+            {
+              "type": "showhide",
+              "input": "grip:l",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Left_Paddle.png",
+                  "x": -362.0,
+                  "y": 424.0,
+                  "width": 153.0,
+                  "height": 272.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "triggers:l:stage2",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Left_Trigger_Click.png",
+                  "x": -426.8,
+                  "y": -492.8,
+                  "width": 100.0,
+                  "height": 172.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "bumpers:l",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "LB.png",
+                  "x": -485.0,
+                  "y": -370.0,
+                  "width": 185.0,
+                  "height": 104.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "grip:r",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Right_Paddle.png",
+                  "x": 362.0,
+                  "y": 424.0,
+                  "width": 153.0,
+                  "height": 272.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "triggers:r:stage2",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "Right_Trigger_Click.png",
+                  "x": 426.8,
+                  "y": -497.8,
+                  "width": 100.0,
+                  "height": 172.0,
+                  "center": true
+                }
+              ]
+            },
+            {
+              "type": "showhide",
+              "input": "bumpers:r",
+              "children": [
+                {
+                  "type": "image",
+                  "image": "RB.png",
+                  "x": 485.0,
+                  "y": -370.0,
+                  "width": 185.0,
+                  "height": 104.0,
+                  "center": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "showhide",
+          "input": "touch_right:click",
+          "children": [
+            {
+              "type": "image",
+              "image": "Pad_Press.png",
+              "x": 390.0,
+              "y": -134.0,
+              "width": 376.0,
+              "height": 376.0,
+              "center": true
+            }
+          ]
+        },
+        {
+          "x": 171.0,
+          "y": -23.0,
+          "children": [
+            {
+              "type": "trailpad",
+              "image": "Pad_Heat.png",
+              "x": 210.6,
+              "y": -110.6,
+              "width": 56.0,
+              "height": 56.0,
+              "input": "touch_right:0:touch",
+              "inputX": "touch_right:0:x * 172",
+              "inputY": "touch_right:0:y * 172",
+              "length": 35,
+              "children": [
+                {
+                  "type": "showhide",
+                  "input": "touch_right:0:touch",
+                  "children": [
+                    {
+                      "type": "image",
+                      "image": "Pad_touch.png",
+                      "x": 0.0,
+                      "y": 0.0,
+                      "width": 85.0,
+                      "height": 85.0,
+                      "center": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "showhide",
+          "input": "touch_left:click",
+          "children": [
+            {
+              "type": "image",
+              "image": "Pad_Press.png",
+              "x": -390.0,
+              "y": -134.0,
+              "width": 376.0,
+              "height": 376.0,
+              "center": true
+            }
+          ]
+        },
+        {
+          "x": -171.0,
+          "y": -23.0,
+          "children": [
+            {
+              "type": "trailpad",
+              "image": "Pad_Heat.png",
+              "x": -210.6,
+              "y": -110.6,
+              "width": 56.0,
+              "height": 56.0,
+              "input": "touch_left:0:touch",
+              "inputX": "touch_left:0:x * 172",
+              "inputY": "touch_left:0:y * 172",
+              "length": 35,
+              "children": [
+                {
+                  "type": "showhide",
+                  "input": "touch_left:0:touch",
+                  "children": [
+                    {
+                      "type": "image",
+                      "image": "Pad_touch.png",
+                      "x": 0.0,
+                      "y": 0.0,
+                      "width": 85.0,
+                      "height": 85.0,
+                      "center": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "x": -50.0,
+          "y": -495.0,
+          "children": [
+            {
+              "type": "pbar",
+              "x": -210.0,
+              "y": 0.0,
+              "width": 320.0,
+              "height": 35.0,
+              "center": true,
+              "input": "triggers:l:analog",
+              "direction": "left",
+              "min": "0",
+              "max": "1",
+              "foreground": "ff00d2f8",
+              "background": "ff007894"
+            },
+            {
+              "type": "pbar",
+              "x": 310.0,
+              "y": 0.0,
+              "width": 320.0,
+              "height": 35.0,
+              "center": true,
+              "input": "triggers:r:analog",
+              "direction": "right",
+              "min": "0",
+              "max": "1",
+              "foreground": "ff00d2f8",
+              "background": "ff007894"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
